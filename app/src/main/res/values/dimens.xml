@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activitty_horizonal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_item_margin">5dp</dimen>
+    <dimen name="card_item_height">96dp</dimen>
+    <dimen name="card_item_title_margin">4dp</dimen>
+    <dimen name="card_item_favorite_size"></dimen>
+    <dimen name="text_size_title">22dp</dimen>
+    <dimen name="text_size_category">16dp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    
+</resources>

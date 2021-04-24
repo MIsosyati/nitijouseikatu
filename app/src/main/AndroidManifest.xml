@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hiyoyo.omiso.nitijouseikatu">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="日常生活"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.hiyoyo.omiso.nitijouseikatu.TagActivity"></activity>
+        <activity android:name="com.hiyoyo.omiso.nitijouseikatu.MoreActivity" />
+        <activity
+            android:name="com.hiyoyo.omiso.nitijouseikatu.MainActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.hiyoyo.omiso.nitijouseikatu.AddActivity" />
+        <activity android:name="com.hiyoyo.omiso.nitijouseikatu.CalendarActivity" />
+    </application>
+
+</manifest>

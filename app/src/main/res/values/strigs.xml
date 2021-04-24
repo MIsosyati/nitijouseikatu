@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "string_name">
+        text_string
+    </string>
+<string-array name ="list">
+    <item>入れない</item>
+<item>５分前</item>
+<item>15分前</item>
+<item>30分前</item>
+<item>一日前</item>
+</string-array>
+
+<string-array name="list2">
+<item>指定のみ</item>
+<item>毎週</item>
+<item>毎月</item>
+    <item>毎年</item>
+</string-array>
+</resources>
