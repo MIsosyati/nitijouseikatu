@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (InterruptedException e) {
 
         }
-        // スプラッシュthemeを通常themeに変更する
+      //   スプラッシュthemeを通常themeに変更する
         setTheme(R.style.AppTheme);
         setContentView(R.layout.activity_main);
 //リルムの初期化
